@@ -1,0 +1,12 @@
+/* Original reference pages reproduced from the Model Building Bye-Laws 2016 (TCPO).
+   Page headers and footers have been trimmed; content is unchanged. */
+Object.assign(SITE.refs, {
+  "fire-occupancy": { title:"Occupancy categories for fire-fighting water (Annexure A)", note:"Model Building Bye-Laws 2016, Annexure A. Each occupancy is placed in Zone I, II or III; the zone decides which of the fire-protection tables (Annexure B-I, B-II, B-III) applies.", images:["refs/fire-occupancy-1.png"] },
+  "fire-zone1": { title:"Fire protection requirements, Zone I buildings (Annexure B-I)", note:"Model Building Bye-Laws 2016, Annexure B-I, with its legend and notes. P = to be provided, X = not required, S = sprinklers if basement is 200 m² or more, FS = fully sprinklered. Numbered entries refer to the notes on the third page.", images:["refs/fire-zone1-1.png","refs/fire-zone1-2.png","refs/fire-zone1-3.png"] },
+  "fire-zone2": { title:"Fire protection requirements, Zone II buildings (Annexure B-II)", note:"Model Building Bye-Laws 2016, Annexure B-II, with legend and notes.", images:["refs/fire-zone2-1.png","refs/fire-zone2-2.png","refs/fire-zone2-3.png"] },
+  "fire-zone3": { title:"Fire protection requirements, Zone III buildings (Annexure B-III)", note:"Model Building Bye-Laws 2016, Annexure B-III, with legend.", images:["refs/fire-zone3-1.png","refs/fire-zone3-2.png"] },
+  "fire-water": { title:"Water storage and pump requirements for fire fighting (Annexure C)", note:"Model Building Bye-Laws 2016, Annexure C: underground and terrace tank capacities and pump requirements by occupancy and height.", images:["refs/fire-water-1.png","refs/fire-water-2.png","refs/fire-water-3.png"] },
+  "lifts": { title:"Number and type of lifts (Appendix D)", note:"Model Building Bye-Laws 2016, Appendix D: lift capacity, speed and handling capacity for non-residential and residential buildings.", images:["refs/lifts-1.png","refs/lifts-2.png"] },
+  "liftdims": { title:"Lift well, pit and machine-room dimensions (Appendix D-1)", note:"Model Building Bye-Laws 2016, Appendix D-1.", images:["refs/liftdims-1.png"] },
+  "professionals": { title:"Qualification and competence of professionals (Appendix E)", note:"Model Building Bye-Laws 2016, Appendix E: who may prepare and sign plans, structural designs and supervision certificates.", images:["refs/professionals-1.png","refs/professionals-2.png","refs/professionals-3.png"] }
+});
