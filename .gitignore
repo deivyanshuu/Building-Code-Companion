@@ -1,0 +1,17 @@
+# Source documents stay on this computer only. They are never published.
+# The website (index.html) carries short summaries written in our own words, never the documents themselves.
+*.pdf
+*.PDF
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.zip
+
+# The source-code folder is kept off GitHub entirely, whatever is added to it later.
+IS Codes and NBC/
+
+# System files
+Thumbs.db
+desktop.ini
+.DS_Store
